@@ -53,36 +53,4 @@ As you should know, `udev` rules must be installed in `/etc/udev/rules.d/`.
 
 
 
-## How to carry out the work
 
-We are using [GitHub Classroom](https://classroom.github.com/) to handle the code and [Google Classroom](https://classroom.google.com/u/1/c/NjI3NTgwNDE0NTda) to handle essays. This is also an opportunity to experiment with the git Version Control System.
-
-Follow this **[INVITATION LINK](https://classroom.github.com/a/ON3ihFUN)** to create a new repo on GitHub, in which you will be carrying out the development work.
-
-If you want to get the best from this experience, remember that git is just a tool. Although it helps you at keeping the work organized, if you use it wrong, you will mess everything up in any case.
-
-Refer to the [Git Usage](git_usage.md) document in the repository to find out some rules which I strongly encourage to follow, when developing collaboratively. In the case of this project, if you follow a *branch-based model*, **you can mention me** (@alessandropellegrini) **on GitHub when you create a pull request**, to ask for intermediate help remotely (please, don't abuse of this possibility!).
-
-## Deadline to complete the project
-
-As mentioned, there is **one year period** after the end of the classes to complete the project. This means that all projects should be completed by end of June, 2021. After that date, the system will freeze all repositories, and you will be given a mark on what is found in the last commit on `master`.
-
-## What to hand over
-
-To discuss the final project and get the final mark, the students are supposed to provide to the lecturer:
-
-- The implementation of the subsystem
-- The implementation of a userspace test application
-- The documentation of the code, realized according to the provided template (that's the Google Doc file which you can obtain in Google Classroom).
-
-No printed copy of anything should be carried at the discussion. To discuss the final project, simply send an email to the instructor pointing to the repository where the code is provided ***at least one week before any office hours***. Then, come to the office hours for the discussion (or, if no office hours are there due to the COVID-19 emergency, we'll arrange a meet call to discuss the project).
-
-## What will be considered for the mark
-
-Several different aspects will be considered to give the final mark on the project:
-
-- adherence to the specification of the proposed implementation;
-- quality of code;
-- performance and correctness of the code;
-- clarity and quality of the associated documentation;
-- good usage of git.
